@@ -1,0 +1,17 @@
+{
+    "name": "caicongbin/hx",
+    "authors": [
+        {
+            "name": "Caicongbin",
+            "email": "919450058@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+
+    "psr-4": {
+        "Hxit\\Web\\":"src/"
+    }
+}
+}
